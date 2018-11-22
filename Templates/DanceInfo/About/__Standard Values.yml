@@ -1,0 +1,46 @@
+﻿---
+ID: "acba28ec-a338-4a35-b541-017f96e15e6f"
+Parent: "243ec5ba-2450-48e9-ae1c-c7af0cea4346"
+Template: "243ec5ba-2450-48e9-ae1c-c7af0cea4346"
+Path: /sitecore/templates/DanceInfo/About/__Standard Values
+DB: master
+SharedFields:
+- ID: "aa8b4c3e-f8e7-4088-967b-619991db6405"
+  Hint: Show in header
+  Type: Checkbox
+  Value: 1
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{E5BD5B64-868F-4726-A25D-3BEFD5285C32}">
+        <r
+          ds="{8F782D42-4E86-4719-974B-8299A2B77A55}"
+          id="{4F4EFFDF-5DC3-4B7A-9C3F-A56326E851D9}"
+          par=""
+          ph="header"
+          uid="{81CE1E6E-82C0-4EA9-9099-6E0BAF40C50C}" />
+        <r
+          id="{DACD1E70-ACB1-4A7E-B67E-82AD7F0E7C42}"
+          ph="footer"
+          uid="{1D04E6FB-7B69-443F-B9DC-F6AF9DFEA8AC}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "07baea06-098c-4817-8642-7f5b52a74182"
+      Hint: Body
+      Value: "Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181030T101537Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

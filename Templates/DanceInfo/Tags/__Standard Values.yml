@@ -1,0 +1,23 @@
+﻿---
+ID: "e3368a00-0bea-4697-988e-0b28e5cf7b3e"
+Parent: "2632bde9-5948-432c-bbe1-05da2f6f860b"
+Template: "2632bde9-5948-432c-bbe1-05da2f6f860b"
+Path: /sitecore/templates/DanceInfo/Tags/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{2E2F4E6C-C897-45F7-99D8-3B24AD1AEE41}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181113T135449Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

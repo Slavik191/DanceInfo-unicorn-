@@ -1,0 +1,50 @@
+﻿---
+ID: "06209d87-8aa6-472e-9b10-1a93ec63b54a"
+Parent: "2fb17da2-c49e-4e70-a3f2-ef3265d10d1e"
+Template: "2fb17da2-c49e-4e70-a3f2-ef3265d10d1e"
+Path: /sitecore/templates/DanceInfo/Post/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{70BA1357-5142-4815-9EC3-1D83C0D88175}"
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{E5BD5B64-868F-4726-A25D-3BEFD5285C32}">
+        <r
+          ds="{8F782D42-4E86-4719-974B-8299A2B77A55}"
+          id="{4F4EFFDF-5DC3-4B7A-9C3F-A56326E851D9}"
+          par=""
+          ph="header"
+          uid="{4929C6F4-A3D1-4EED-BE36-A6D6EC8F5B04}" />
+        <r
+          id="{B762B32E-011D-48D7-95CC-C1E61AAFF404}"
+          ph="main"
+          uid="{6BBB3E67-F4BE-4492-A1D9-BCB9F7A2E809}" />
+        <r
+          id="{DACD1E70-ACB1-4A7E-B67E-82AD7F0E7C42}"
+          ph="footer"
+          uid="{30173AA3-17BE-45AC-97CC-179335D4CBE2}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181103T171615Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

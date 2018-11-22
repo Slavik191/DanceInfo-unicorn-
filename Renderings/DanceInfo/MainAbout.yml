@@ -1,0 +1,18 @@
+﻿---
+ID: "7b78120c-78ff-416e-b8e2-350cac984901"
+Parent: "1c2fca92-3303-4e4a-b79c-5df1f0493e12"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/DanceInfo/MainAbout
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: ~/Views/Renderings/MainAbout.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181031T133750Z

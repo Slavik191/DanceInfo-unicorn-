@@ -1,0 +1,46 @@
+﻿---
+ID: "b2143359-9bbe-42b7-ab3c-c20dd15cb47a"
+Parent: "e4135f12-a598-4080-84e2-859816754510"
+Template: "e4135f12-a598-4080-84e2-859816754510"
+Path: /sitecore/templates/DanceInfo/Page Error/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{E5BD5B64-868F-4726-A25D-3BEFD5285C32}">
+        <r
+          id="{4F4EFFDF-5DC3-4B7A-9C3F-A56326E851D9}"
+          ph="header"
+          uid="{ADDDCB9E-6BEB-4534-8767-8D1A9AAA6130}" />
+        <r
+          id="{DACD1E70-ACB1-4A7E-B67E-82AD7F0E7C42}"
+          ph="footer"
+          uid="{6CA052EA-46DF-4C51-8154-363C4F566EC6}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181121T054447Z
+    - ID: "2d1c1f52-6ddb-4a1f-8c93-fd8b596efe91"
+      Hint: Example
+      Value: "HELP!!!!!!!!!"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "692adc5e-84ad-4d6b-a524-7fdadb5efccd"
+      Hint: Content
+      Value: ERROR
+    - ID: "88c0e039-6cff-46b8-9695-838a4b79fa32"
+      Hint: Title
+      Value: 404
